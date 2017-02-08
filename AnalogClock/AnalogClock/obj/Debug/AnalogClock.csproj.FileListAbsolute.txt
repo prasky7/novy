@@ -7,3 +7,6 @@ d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\bin\Debug\AnalogClock.
 d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
 d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
 d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+D:\Data\#Aplikace\PortableGit\novy\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+D:\Data\#Aplikace\PortableGit\novy\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\Data\#Aplikace\PortableGit\novy\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
