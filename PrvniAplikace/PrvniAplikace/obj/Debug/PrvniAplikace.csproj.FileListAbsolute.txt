@@ -1,6 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\bin\Debug\PrvniAplikace.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\bin\Debug\PrvniAplikace.exe
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\bin\Debug\PrvniAplikace.pdb
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\obj\Debug\PrvniAplikace.csprojResolveAssemblyReference.cache
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\obj\Debug\PrvniAplikace.exe
-d:\Users\praskyr01\Dropbox\CSharp\PrvniAplikace\PrvniAplikace\obj\Debug\PrvniAplikace.pdb

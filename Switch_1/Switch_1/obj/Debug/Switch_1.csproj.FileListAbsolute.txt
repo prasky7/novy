@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Switch_1\Switch_1\bin\Debug\Switch_1.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Switch_1\Switch_1\bin\Debug\Switch_1.exe
-d:\Users\praskyr01\Dropbox\CSharp\Switch_1\Switch_1\bin\Debug\Switch_1.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Switch_1\Switch_1\obj\Debug\Switch_1.exe
-d:\Users\praskyr01\Dropbox\CSharp\Switch_1\Switch_1\obj\Debug\Switch_1.pdb

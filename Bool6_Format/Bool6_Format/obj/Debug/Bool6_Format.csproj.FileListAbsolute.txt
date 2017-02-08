@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Bool6_Format\Bool6_Format\bin\Debug\Bool6_Format.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Bool6_Format\Bool6_Format\bin\Debug\Bool6_Format.exe
-d:\Users\praskyr01\Dropbox\CSharp\Bool6_Format\Bool6_Format\bin\Debug\Bool6_Format.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Bool6_Format\Bool6_Format\obj\Debug\Bool6_Format.exe
-d:\Users\praskyr01\Dropbox\CSharp\Bool6_Format\Bool6_Format\obj\Debug\Bool6_Format.pdb

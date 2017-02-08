@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Podminky_6a\Podminky_6a\bin\Debug\Podminky_6a.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Podminky_6a\Podminky_6a\bin\Debug\Podminky_6a.exe
-d:\Users\praskyr01\Dropbox\CSharp\Podminky_6a\Podminky_6a\bin\Debug\Podminky_6a.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Podminky_6a\Podminky_6a\obj\Debug\Podminky_6a.exe
-d:\Users\praskyr01\Dropbox\CSharp\Podminky_6a\Podminky_6a\obj\Debug\Podminky_6a.pdb

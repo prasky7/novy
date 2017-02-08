@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Bool3\Bool3\bin\Debug\Bool3.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Bool3\Bool3\bin\Debug\Bool3.exe
-d:\Users\praskyr01\Dropbox\CSharp\Bool3\Bool3\bin\Debug\Bool3.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Bool3\Bool3\obj\Debug\Bool3.exe
-d:\Users\praskyr01\Dropbox\CSharp\Bool3\Bool3\obj\Debug\Bool3.pdb

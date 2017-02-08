@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\zdvojnasobovac\zdvojnasobovac\bin\Debug\zdvojnasobovac.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\zdvojnasobovac\zdvojnasobovac\bin\Debug\zdvojnasobovac.exe
-d:\Users\praskyr01\Dropbox\CSharp\zdvojnasobovac\zdvojnasobovac\bin\Debug\zdvojnasobovac.pdb
-d:\Users\praskyr01\Dropbox\CSharp\zdvojnasobovac\zdvojnasobovac\obj\Debug\zdvojnasobovac.exe
-d:\Users\praskyr01\Dropbox\CSharp\zdvojnasobovac\zdvojnasobovac\obj\Debug\zdvojnasobovac.pdb

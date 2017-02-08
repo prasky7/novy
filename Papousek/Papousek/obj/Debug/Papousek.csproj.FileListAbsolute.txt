@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Papousek\Papousek\bin\Debug\Papousek.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Papousek\Papousek\bin\Debug\Papousek.exe
-d:\Users\praskyr01\Dropbox\CSharp\Papousek\Papousek\bin\Debug\Papousek.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Papousek\Papousek\obj\Debug\Papousek.exe
-d:\Users\praskyr01\Dropbox\CSharp\Papousek\Papousek\obj\Debug\Papousek.pdb

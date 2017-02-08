@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
-d:\Users\praskyr01\Dropbox\CSharp\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
-d:\Users\praskyr01\Dropbox\CSharp\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb

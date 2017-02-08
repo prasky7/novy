@@ -1,5 +1,0 @@
-d:\Users\praskyr01\Dropbox\CSharp\Cykly_1b\Cykly_1b\bin\Debug\Cykly_1b.exe.config
-d:\Users\praskyr01\Dropbox\CSharp\Cykly_1b\Cykly_1b\bin\Debug\Cykly_1b.exe
-d:\Users\praskyr01\Dropbox\CSharp\Cykly_1b\Cykly_1b\bin\Debug\Cykly_1b.pdb
-d:\Users\praskyr01\Dropbox\CSharp\Cykly_1b\Cykly_1b\obj\Debug\Cykly_1b.exe
-d:\Users\praskyr01\Dropbox\CSharp\Cykly_1b\Cykly_1b\obj\Debug\Cykly_1b.pdb
