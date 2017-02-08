@@ -1,0 +1,9 @@
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+d:\Users\praskyr01\Dropbox\CSharp\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
