@@ -1,0 +1,5 @@
+d:\Users\praskyr01\Dropbox\CSharp\Bool2\Bool2\bin\Debug\Bool2.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Bool2\Bool2\bin\Debug\Bool2.exe
+d:\Users\praskyr01\Dropbox\CSharp\Bool2\Bool2\bin\Debug\Bool2.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Bool2\Bool2\obj\Debug\Bool2.exe
+d:\Users\praskyr01\Dropbox\CSharp\Bool2\Bool2\obj\Debug\Bool2.pdb

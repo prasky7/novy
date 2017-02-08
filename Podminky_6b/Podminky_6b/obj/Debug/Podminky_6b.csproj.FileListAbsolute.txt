@@ -1,0 +1,5 @@
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_6b\Podminky_6b\bin\Debug\Podminky_6b.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_6b\Podminky_6b\bin\Debug\Podminky_6b.exe
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_6b\Podminky_6b\bin\Debug\Podminky_6b.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_6b\Podminky_6b\obj\Debug\Podminky_6b.exe
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_6b\Podminky_6b\obj\Debug\Podminky_6b.pdb
