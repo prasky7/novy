@@ -1,0 +1,5 @@
+d:\Users\praskyr01\Dropbox\CSharp\Vypis\Vypis\bin\Debug\Vypis.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Vypis\Vypis\bin\Debug\Vypis.exe
+d:\Users\praskyr01\Dropbox\CSharp\Vypis\Vypis\bin\Debug\Vypis.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Vypis\Vypis\obj\Debug\Vypis.exe
+d:\Users\praskyr01\Dropbox\CSharp\Vypis\Vypis\obj\Debug\Vypis.pdb

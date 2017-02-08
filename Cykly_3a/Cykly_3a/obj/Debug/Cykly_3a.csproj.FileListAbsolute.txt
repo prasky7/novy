@@ -1,0 +1,5 @@
+d:\Users\praskyr01\Dropbox\CSharp\Cykly_3a\Cykly_3a\bin\Debug\Cykly_3a.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Cykly_3a\Cykly_3a\bin\Debug\Cykly_3a.exe
+d:\Users\praskyr01\Dropbox\CSharp\Cykly_3a\Cykly_3a\bin\Debug\Cykly_3a.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Cykly_3a\Cykly_3a\obj\Debug\Cykly_3a.exe
+d:\Users\praskyr01\Dropbox\CSharp\Cykly_3a\Cykly_3a\obj\Debug\Cykly_3a.pdb

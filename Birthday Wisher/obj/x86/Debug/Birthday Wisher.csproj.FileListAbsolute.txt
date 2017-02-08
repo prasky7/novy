@@ -1,0 +1,17 @@
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\bin\Debug\Birthday Wisher.exe
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\bin\Debug\Birthday Wisher.pdb
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\Birthday_Wisher.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\Birthday_Wisher.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\Birthday Wisher.exe
+c:\users\pc\documents\visual studio 2010\Projects\Birthday Wisher\Birthday Wisher\obj\x86\Debug\Birthday Wisher.pdb
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday Wisher.exe
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday Wisher.pdb
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\bin\Debug\Birthday Wisher.exe
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\bin\Debug\Birthday Wisher.pdb
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday Wisher.csprojResolveAssemblyReference.cache
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday_Wisher.Form1.resources
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday_Wisher.Properties.Resources.resources
+D:\Users\praskyr01\Dropbox\CSharp\Birthday Wisher\obj\x86\Debug\Birthday Wisher.csproj.GenerateResource.Cache

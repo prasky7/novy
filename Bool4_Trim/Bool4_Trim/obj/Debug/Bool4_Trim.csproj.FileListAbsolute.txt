@@ -1,0 +1,5 @@
+d:\Users\praskyr01\Dropbox\CSharp\Bool4_Trim\Bool4_Trim\bin\Debug\Bool4_Trim.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Bool4_Trim\Bool4_Trim\bin\Debug\Bool4_Trim.exe
+d:\Users\praskyr01\Dropbox\CSharp\Bool4_Trim\Bool4_Trim\bin\Debug\Bool4_Trim.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Bool4_Trim\Bool4_Trim\obj\Debug\Bool4_Trim.exe
+d:\Users\praskyr01\Dropbox\CSharp\Bool4_Trim\Bool4_Trim\obj\Debug\Bool4_Trim.pdb

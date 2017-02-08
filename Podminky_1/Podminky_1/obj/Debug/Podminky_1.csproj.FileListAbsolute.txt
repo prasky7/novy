@@ -1,0 +1,6 @@
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\bin\Debug\Podminky_1.exe.config
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\bin\Debug\Podminky_1.exe
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\bin\Debug\Podminky_1.pdb
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\obj\Debug\Podminky_1.csprojResolveAssemblyReference.cache
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\obj\Debug\Podminky_1.exe
+d:\Users\praskyr01\Dropbox\CSharp\Podminky_1\Podminky_1\obj\Debug\Podminky_1.pdb
